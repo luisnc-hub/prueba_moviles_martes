@@ -2,3 +2,4 @@ Bienvenidos a Git
 Luis Narváez
 
 - Resido en Lima - Zárate mentira en Arévalo 3ra etapa La libertad
+- Programador Java, Móvil y Desarrollador Web
